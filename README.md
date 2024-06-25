@@ -28,5 +28,9 @@ To run this project locally, follow these steps:
    ```bash
    cd virtual_whiteboard_app_SKG
    npm install
+3. Start the development Server:
+   ```bash
+   npm start
+4. Open your Browser and visit: http://localhost:3000     
 
    
