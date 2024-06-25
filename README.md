@@ -2,7 +2,7 @@
 
 A dynamic whiteboard application built with React and HTML5 Canvas, styled using Tailwind CSS.
 
-View the live demo: [Virtual Whiteboard App Demo](https://virtual-whiteboard-app-skg.vercel.app/)
+View the live demo: [Virtual Whiteboard LIVE App ](https://virtual-whiteboard-app-skg.vercel.app/)
 
 ## Features
 
