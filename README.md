@@ -31,6 +31,18 @@ To run this project locally, follow these steps:
 3. Start the development Server:
    ```bash
    npm start
-4. Open your Browser and visit: http://localhost:3000     
+4. Open your Browser and visit: http://localhost:3000
+     
+## Usage
+- Choose a drawing tool from the toolbar (line, rectangle, ellipse, arrow, text).
+- Use the canvas to draw or add text by clicking and dragging
+- Utilize the eraser tool to remove elements.
+- Undo and redo actions using the provided controls.
+- Save or export your whiteboard creations.
+
+  
+## ACKNOWLEDGEMENTS
+- Special thanks to Tailwind CSS for the amazing styling utility.
+- Inspired by the need for collaborative digital whiteboarding solutions.
 
    
