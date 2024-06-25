@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
    git clone https://github.com/subhaorku/virtual_whiteboard_app_SKG.git
 2. Install Dependencies:
    ```bash
- cd virtual_whiteboard_app_SKG
-npm install
+   cd virtual_whiteboard_app_SKG
+   npm install
 
    
